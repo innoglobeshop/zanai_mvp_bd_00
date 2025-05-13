@@ -20,6 +20,5 @@
     "mongoose": "^8.14.2"
 "scripts": {
   "start": "node server.js",
-},
   }
 }
